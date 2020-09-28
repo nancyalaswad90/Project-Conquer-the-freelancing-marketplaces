@@ -18,7 +18,6 @@
 
 
 
- - [Udacity PowerPoint presentation](https://docs.google.com/presentation/d/157_eLbEd8N4VI3aKvrjFw7d_xXaokz96W-MjJJ7eEj8/edit#slide=id.g7470d268a8_0_52)
 
 
 
